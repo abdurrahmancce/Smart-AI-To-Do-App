@@ -10,10 +10,6 @@ This project combines **GUI design, smart task management, and AI-like logic** t
 
 ---
 
-## 📸 Screenshots
-
-> ⚠️ Add your own screenshots in a `screenshots/` folder
-
 ### 🖥️ Main Interface
 
 <img width="511" height="539" alt="image" src="https://github.com/user-attachments/assets/a216887e-3dee-4b98-91e3-8da09f8b675c" />
@@ -115,6 +111,7 @@ python main.py
 ## 👨‍💻 Author
 
 **Abdur Rahman**
+
 Computer & Communication Engineering Student
 
 ---
