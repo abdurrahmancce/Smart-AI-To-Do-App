@@ -128,4 +128,4 @@ If you like this project:
 
 ## 📌 License
 
-Free to use for learning and personal projects.
+**Free to use for learning and personal projects.**
